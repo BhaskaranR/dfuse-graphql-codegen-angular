@@ -1,4 +1,4 @@
-# DFUSE APOLLO CLIENT CODE GEN FOR ANGULAR FRONTEND
+# dfuse apollo client code-gen for angular frontend
 
 This repository contains a basic example of how to properly setup
 Apollo Client under a Node.js environment.
